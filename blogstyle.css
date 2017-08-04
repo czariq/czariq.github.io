@@ -1,0 +1,48 @@
+.blogcontainer
+{
+    background-color: ;
+}
+.blogimg
+{
+    float:left;
+    margin: 50px;
+    width: 498px;
+    height: 248px;
+    border: 1px solid #7F2B29;
+    background-color: #ffffff;
+}
+.blogdesc
+{
+    float:left;
+    margin: 50px;
+    margin-top: -50px;
+    width: 500px;
+    height: 150px;
+    text-align: justify;
+}
+#columnleft
+{
+    float:left;
+    width: 900px;
+}
+.blogimg2
+{
+    float: left;
+    width: 298px;
+    height: 148px;
+    background-color: #ffffff;
+    border: 1px solid #7F2B29;
+    margin: 30px;
+}
+.blogdesc2
+{
+    float:left;
+    width: 480px;
+    height: 150px;
+    margin: 30px;
+}
+#columnright
+{
+    float:left;
+    width: 300px;
+}
